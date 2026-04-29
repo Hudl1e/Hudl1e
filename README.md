@@ -1,85 +1,81 @@
-# 👋 Hi, I’m Yushen Liu
-
-**[Your Role]**  
-[Your Institution or Company]  
-✉️ [your.email@example.com]
-
----
-
 ## About Me
 
-A brief introduction—who you are, what you're studying or working on, and what excites you in your field. Example:
+Hi! I'm Yushen Liu, a fourth-year Mathematics and Computer Science student at the University of Virginia.
 
-> I’m a [year] Ph.D. student in **[Your Field]** at **[Institution]**, advised by **Prof. X**.  
-> My passion lies in **[Research or Interests]**, and I collaborate closely with **[Other Mentors or Groups]**.
+My work focuses on building intelligent, data-driven systems for real-world decision-making problems, especially in healthcare, public health surveillance, and safe reinforcement learning. I enjoy combining machine learning, reinforcement learning, simulation, and algorithm design to create tools that are both technically rigorous and practically useful.
 
-I completed my **Bachelor’s in [Degree]** at **[Undergrad University]** in **[Year]**, including an exchange or internship if applicable. Maybe mention a past internship or exchange semester, like your time at **[Institution]** working with **Prof. Y**.
+I have been involved in multiple research projects across biomedical AI, genomic surveillance, stochastic bandits, and wireless/network data analysis. I currently collaborate closely with Prof. Xugui Zhou from LSU and Prof. Andrew Warren from UVA.
 
----
-
-## 🔬 Research Interests
-
-- **Interest area 1**
-- **Interest area 2**
-- **Interest area 3**
+Outside of research, I am also an active esports player and a member of UVA Esports, where I compete in Counter-Strike 2.
 
 ---
 
-## 📣 News
+## Research Interests
 
-- **[Month Year]** — A highlight (e.g., “Selected for Travel Grant to [Conference]”).
-- **[Month Year]** — (“I will present *ProjectName* at [Conference]!”)
-- **[Month Year]** — Any other major achievements or upcoming things.
-
----
-
-## 📝 Selected Publications
-
-1. **Paper Title** — *Conference/Journal, Year*  
-   **Co-authors** — Brief description. [PDF](link) · [Slides](link) · [BibTeX](link)
-2. **Another Paper Title** — *Conference/Journal, Year*  
-   **Co-authors** — Brief description. [PDF](link) · [BibTeX](link)
-3. …
+- **Safe Reinforcement Learning and Sequential Decision-Making**
+- **Machine Learning for Healthcare and Biomedical Systems**
+- **Digital Twin Modeling and Simulation-Based Optimization**
+- **Public Health Genomic Surveillance**
+- **Data Management, Feature Engineering, and Algorithm Design**
+- **Deep Learning, Bandits, and Risk-Aware Control**
 
 ---
 
-## 🛠️ Services
+## Selected Publications
 
-#### **Conference/Workshop Roles**
-- Reviewer or committee member at conferences like **XYZ** (Years).
-- Other service roles.
+1. **Integrating Neural Differential Forecasting with Safe Reinforcement Learning for Blood Glucose Regulation**  
+   *2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)*  
+   Yushen Liu, Yanfu Zhang, Xugui Zhou  
+   [Paper](https://arxiv.org/abs/2511.12417)
 
----
+2. **On the Performance of the Minimax Optimal Strategy in the Stochastic Case of Logistic Bandits**  
+   *CONF-MLA, 2024*  
+   Yushen Liu  
+   [Paper](https://www.ewadirect.com/proceedings/ace/article/view/16745)
 
-## 🎓 Education & Experience
-
-- **Ph.D. in [Field]** — *[Institution]* (Start Year – )  
-  Advised by **Prof. X**
-- **B.Eng. in [Field] & B.Sc in [Field]** — *[University]* (Year)
-- Internship at **[Organization]** (e.g., “Research Intern at Microsoft Research Asia”).
-- Exchange at **[Institution]**, supervised by **Prof. Y**.
-
----
-
-## 💡 Misc
-
-- ✔️ Real/legal name(s) in other languages/scripts (if relevant).
-- ✔️ Fun fact or personal tidbit (e.g., “I share my name with actor…”).
-- ✔️ Tech you use daily (e.g., Python, Rust) and note that you release open-source code.
-- Logos of key tools or frameworks.
+3. **Atrial Fibrillation Detection Based on ECG**  
+   *International Conference on Computer Network Security and Software Engineering (CNSSE 2022)*  
+   Mingxin Dong, Yuan Gao, Jiang Yue, Yushen Liu, Mengxin Xie  
+   [Paper](https://doi.org/10.1117/12.2640954)
 
 ---
 
-## 📫 Find Me
+## Current Research & Projects
 
-- **GitHub:** [your-username](https://github.com/your-username)  
-- **Email:** your.email@example.com  
-- **Website / Portfolio / Blog:** [https://your-website.com](https://your-website.com)
+- **APS Glucose Prediction and Control Research Team**  
+  Working with Prof. Xugui Zhou on safe reinforcement learning, NeuralODE forecasting, and blood glucose regulation using the UVa/Padova Type 1 Diabetes simulator.
+
+- **Computing for Global Challenges**  
+  Working with Prof. Andrew Warren and Prof. Gursharn Kaur on adaptive sampling strategies for genomic surveillance, digital twin simulation, and data-driven public health decision support.
+
+- **Risk-Gated Reinforcement Learning**  
+  Developing efficient risk-aware RL methods that bridge the gap between full POMDP planning and standard safe RL by using compact proxy states, learned risk predictors, and safety-aware action selection.
 
 ---
 
-*Powered by [Jekyll](https://jekyllrb.com/) with the [Minimal Light theme](https://…)
+## Education
+
+**University of Virginia**  
+B.A. in Mathematics & B.A. in Computer Science  
+*2022 – 2026*
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+## Esports & Gaming
+
+I am an active gamer and member of the UVA Esports team, where I represent the university in **Counter-Strike 2**.
+
+- Achieved **Top 4** placement in the ECAC Collegiate Tournament
+- Compete with a focus on teamwork, communication, and high-pressure strategy
+- Enjoy AAA games across Steam, PlayStation 5, and Nintendo Switch
+
+---
+
+## Technical Skills
+
+**Programming:** Python, Java, C++, R, SQL  
+**Machine Learning:** PyTorch, scikit-learn, reinforcement learning, deep learning, bandits  
+**Data & Research Tools:** Pandas, NumPy, Matplotlib, Jupyter, Git, LaTeX  
+**Research Areas:** Safe RL, healthcare AI, genomic surveillance, simulation, algorithm design
+
+---
